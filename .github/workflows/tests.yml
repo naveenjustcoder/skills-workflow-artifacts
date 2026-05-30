@@ -50,5 +50,4 @@ jobs:
         with:
           path: playwright-report/index.html
           archive: false
-          
-      - 
+
